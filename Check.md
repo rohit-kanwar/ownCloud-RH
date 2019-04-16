@@ -6,10 +6,10 @@ At the same time, users can access company files quickly and easily from anywher
 
 ## CHAPTER 1. SHOULD YOU USE THIS GUIDE?
 
-Are you administrator or user, we got it all covered here. Topic 1-3 
+Are you administrator or user, we got it all covered here. Topic 1-3  
 
 ### How?
-![Image VM]
-(https://github.com/rohit-kanwar/ownCloud-RH/blob/master/Virtual%20Box.png)
+
+
 
 

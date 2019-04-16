@@ -1,6 +1,6 @@
 # ownCloud Server Quick Start Guide
 
-ownCloud is the open platform for more productivity and security in digital collaboration. ownCloud is secure enterprise file sharing. ownCloud is hosted in users data center offering unsurpassed transparency, security and control and can be flexibly integrated into the existing environment.
+ownCloud is open platform for more productivity and security in digital collaboration. ownCloud is secure enterprise file sharing. ownCloud is hosted in users data center offering unsurpassed transparency, security and control and can be flexibly integrated into the existing environment.
 
 Also users can access company files quickly and easily from anywhere and from any device. This increases both safety and productivity.
 

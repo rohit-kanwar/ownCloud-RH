@@ -10,6 +10,7 @@ Are you administrator or user, we got it all covered here. Topic 1-3
 
 ### How?
 
+![Virtual Box](https://github.com/rohit-kanwar/ownCloud-RH/blob/master/Virtual%20Box.png)
 
 
 

@@ -9,6 +9,7 @@ At the same time, users can access company files quickly and easily from anywher
 Are you administrator or user, we got it all covered here. Topic 1-3 
 
 ### How?
-![Image VM] https://github.com/rohit-kanwar/ownCloud-RH/blob/master/Virtual%20Box.png
+![Image VM]
+(https://github.com/rohit-kanwar/ownCloud-RH/blob/master/Virtual%20Box.png)
 
 

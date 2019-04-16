@@ -53,7 +53,7 @@ Installation of VirtualBox is now complete.
 ## CHAPTER 4. INSTALLING UNIVENTION-APP-OWNCLOUD-VIRTUALBOX IN VIRTUALBOX
 
 1. Double click __Oracle VM VirtualBox__ icon if it does not start.
-2. Click __File__ --> __Import Appliance__ or double click the downloaded file __Univention-App-owncloud-ESX__ and click__Import__.
+2. Click __File__ --> __Import Appliance__ or double click the downloaded file __Univention-App-owncloud-ESX__ and click __Import__.
 
 ![Appliance](https://github.com/rohit-kanwar/ownCloud-RH/blob/master/C4-2%20Import%20Visual%20Appliance%2008.png)
 
@@ -96,12 +96,3 @@ on this system__ and click __Next__.
 8. Click __CONFIGURE SYSTEM__.
 
 ![Configure System](https://github.com/rohit-kanwar/ownCloud-RH/blob/master/c5-8%20Settings%2018.png)
-
-
-
-
-
-
-
-
-

@@ -9,17 +9,6 @@ At the same time, users can access company files quickly and easily from anywher
 Are you administrator or user, we got it all covered here. Topic 1-3 
 
 ### How?
+![GitHub Virtual Box](/images/Virtual Box.png)
 
-Just start typing in the left panel.
-
-### Buttons you might want to use
-
-- **Quick Reference**: that's a reminder of the most basic rules of Markdown
-- **HTML | Preview**: *HTML* to see the markup generated from your Markdown text, *Preview* to see how it looks like
-
-### Most useful shortcuts
-
-- `CTRL + O` to open files
-- `CTRL + T` to open a new tab
-- `CTRL + S` to save the current file or tab
 

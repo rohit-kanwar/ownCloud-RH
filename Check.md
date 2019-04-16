@@ -19,3 +19,4 @@ Before we install ownCloud server a virtual machine is required for virtual envi
 1. Click __Next__
 
 ![Virtual Box](https://github.com/rohit-kanwar/ownCloud-RH/blob/master/Virtual%20Box.png)
+Visit [download] https://owncloud.com/download/

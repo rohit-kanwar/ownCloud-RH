@@ -85,12 +85,3 @@ on this system__ and click __Next__.
 8. Click __CONFIGURE SYSTEM__.
 
 ![Configure System](https://github.com/rohit-kanwar/ownCloud-RH/blob/master/c5-8%20Settings%2018.png)
-
-
-
-
-
-
-
-
-
